@@ -1,6 +1,6 @@
 # Must-read papers on Sememe Computation
 
-Contributed by [Fanchao Qi] (https://github.com/Fanchao-Qi).
+Contributed by [Fanchao Qi](https://github.com/Fanchao-Qi).
 
 ## Introduction
 

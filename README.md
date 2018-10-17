@@ -11,7 +11,7 @@ As a result, sememes can help us comprehend human languages better. In fact, som
 [HowNet](http://www.keenage.com/), initially published in 2000, is the most famous sememe-based linguistic knowledge base.
 
 
-## Journal and conference papers
+## Papers
 ### Introduction to HowNet
 
 1. **HowNet - a hybrid language and knowledge resource**. *Zhendong Dong and Qiang Dong*. NLP-KE 2003. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1276017)]
@@ -33,15 +33,17 @@ As a result, sememes can help us comprehend human languages better. In fact, som
 ### Expansion of sememe-based knowledge bases
 1. **Cross-lingual Lexical Sememe Prediction**. *Fanchao Qi, Yankai Lin, Maosong Sun, Hao Zhu, Ruobing Xie and Zhiyuan Liu*. EMNLP 2018. [[codes](https://github.com/thunlp/CL-SP)]
 
-2. **Incorporating Chinese Characters of Words for Lexical Sememe Prediction**. *Huiming Jin, Hao Zhu, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Fen Lin and Leyu Lin*. ACL 2018. [[pdf](https://arxiv.org/pdf/1806.06349)] [[codes](https://github.com/thunlp/Character-enhanced-Sememe-Prediction)]
+1. **Incorporating Chinese Characters of Words for Lexical Sememe Prediction**. *Huiming Jin, Hao Zhu, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Fen Lin and Leyu Lin*. ACL 2018. [[pdf](https://arxiv.org/pdf/1806.06349)] [[codes](https://github.com/thunlp/Character-enhanced-Sememe-Prediction)]
 
-3. **Lexical Sememe Prediction via Word Embeddings and Matrix Factorization**. *Ruobing Xie, Xingchi Yuan, Zhiyuan Liu and Maosong Sun*. IJCAI 2017. [[pdf](https://www.ijcai.org/proceedings/2017/0587.pdf)] [[codes](https://github.com/thunlp/Sememe_prediction)]
+1. **Lexical Sememe Prediction via Word Embeddings and Matrix Factorization**. *Ruobing Xie, Xingchi Yuan, Zhiyuan Liu and Maosong Sun*. IJCAI 2017. [[pdf](https://www.ijcai.org/proceedings/2017/0587.pdf)] [[codes](https://github.com/thunlp/Sememe_prediction)]
 
-4. **Extended HowNet 2.0 – An Entity-Relation Common-Sense Representation Model**. *Wei-Yun Ma and Yueh-Yin Shih*. LREC 2018. [[pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/547.pdf)]
+1. **Sememe Prediction: Learning Semantic Knowledge from Unstructured Textual Wiki Descriptions**. *Wei Li, Xuancheng Ren, Damai Dai, Yunfang Wu, Houfeng Wang and Xu Sun*. arXiv 2018. [[pdf](https://arxiv.org/pdf/1808.05437)] [[codes](https://github.com/lancopku/Sememe_prediction)]
 
-5. **E-HowNet and Automatic Construction of a Lexical Ontology**. *Wei-Te Chen, Su-Chu Lin, Shu-Ling Huang, You-Shan Chung and Keh-Jiann Chen*. COLING 2010. [[pdf](https://aclanthology.info/pdf/C/C10/C10-3012.pdf)]
+1. **Extended HowNet 2.0 – An Entity-Relation Common-Sense Representation Model**. *Wei-Yun Ma and Yueh-Yin Shih*. LREC 2018. [[pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/547.pdf)]
 
-6. **Extended-HowNet- A Representational Framework for Concepts**. *Keh-Jiann Chen, Shu-Ling Huang, Yueh-Yin Shih and Yi-Jun Chen*. OntoLex 2005. [[pdf](http://www.aclweb.org/anthology/I05-7001)]
+1. **E-HowNet and Automatic Construction of a Lexical Ontology**. *Wei-Te Chen, Su-Chu Lin, Shu-Ling Huang, You-Shan Chung and Keh-Jiann Chen*. COLING 2010. [[pdf](https://aclanthology.info/pdf/C/C10/C10-3012.pdf)]
+
+1. **Extended-HowNet- A Representational Framework for Concepts**. *Keh-Jiann Chen, Shu-Ling Huang, Yueh-Yin Shih and Yi-Jun Chen*. OntoLex 2005. [[pdf](http://www.aclweb.org/anthology/I05-7001)]
 
 
 
@@ -51,6 +53,8 @@ As a result, sememes can help us comprehend human languages better. In fact, som
 1. **Chinese LIWC Lexicon Expansion via Hierarchical Classification of Word Embeddings with Sememe Attention**. *Xiangkai Zeng, Cheng Yang, Cunchao Tu, Zhiyuan Liu and Maosong Sun*. AAAI 2018. [[pdf](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2018_cliwc.pdf)] [[codes](https://github.com/thunlp/Auto_CLIWC)]
 
 1. **Improved Word Representation Learning with Sememes**. *Yilin Niu, Ruobing Xie, Zhiyuan Liu and Maosong Sun*. ACL 2017. [[pdf](http://www.aclweb.org/anthology/P17-1187)] [[codes](https://github.com/thunlp/SE-WRL)]
+
+1. **Evaluating Semantic Rationality of a Sentence: A Sememe-Word-Matching Neural Network based on HowNet**. *Shu Liu, Jingjing Xu, Xuancheng Ren and Xu Sun*. arXiv 2018. [[pdf](https://arxiv.org/pdf/1809.03999)]
 
 1. **Multi-aspect sentiment analysis for Chinese online social reviews based on topic modeling and HowNet lexicon**. *Xianghua Fu, Guo Li, Yanyan Guo and Zhiqiang Wang*. Knowledge-Based Systems 2013. [[pdf](https://ac.els-cdn.com/S0950705112002158/1-s2.0-S0950705112002158-main.pdf?_tid=5984aad5-e966-4a77-8206-23b466b21dae&acdnat=1539766746_e79fd6f8c0250bc3c105ee57b0b60a12)]
 

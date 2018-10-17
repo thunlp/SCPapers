@@ -17,15 +17,15 @@ As a result, sememes can help us comprehend human languages better. In fact, som
 
  > This paper gives a summary of theoretical findings about knowledge of HowNet.
 
-1. **HowNet - a hybrid language and knowledge resource**. *Zhendong Dong and Qiang Dong*. NLP-KE 2003. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1276017)]
+2. **HowNet - a hybrid language and knowledge resource**. *Zhendong Dong and Qiang Dong*. NLP-KE 2003. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1276017)]
  
  > This paper gives a brief introduction to HowNet.
 
-1. **Introduction to HowNet**. *Zhendong Dong and Qiang Dong*. [[pdf (English)](http://www.keenage.com/Theory%20and%20practice%20of%20HowNet/04.pdf)] [[pdf (Chinese)](http://www.keenage.com/Theory%20and%20practice%20of%20HowNet/03.pdf)]
+3. **Introduction to HowNet**. *Zhendong Dong and Qiang Dong*. [[pdf (English)](http://www.keenage.com/Theory%20and%20practice%20of%20HowNet/04.pdf)] [[pdf (Chinese)](http://www.keenage.com/Theory%20and%20practice%20of%20HowNet/03.pdf)]
  
  > This paper gives an overall introduction to HowNet, including its features, philosophy and constructing method.
 
-1. **KDML — 知网知识系统描述语言**. *Zhendong Dong and Qiang Dong*. [[pdf (Chinese)](http://www.keenage.com/Theory%20and%20practice%20of%20HowNet/07.pdf)]
+4. **KDML — 知网知识系统描述语言**. *Zhendong Dong and Qiang Dong*. [[pdf (Chinese)](http://www.keenage.com/Theory%20and%20practice%20of%20HowNet/07.pdf)]
  
  > This paper gives a detailed introduction to Knowledge Database Mark-up Language, the mark-up language used in HowNet.
 

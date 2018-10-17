@@ -56,7 +56,7 @@ As a result, sememes can help us comprehend human languages better. In fact, som
 
 1. **Method of discriminant for Chinese sentence sentiment orientation based on HowNet**. *Lei Dang and Lei Zhang*. Application Research of Computers 2010. [[pdf (Chinese)](http://www.arocmag.com/getarticle/?aid=0566ec39f836c6d3)]
 
-1. **Semantic orientation computing based on HowNet**. *Yanlan Zhu, Jin Min, Yaqian Zhou, Xuanjing Huang and Lide Wu*. JCIP 2005. [[pdf](http://www.aclweb.org/anthology/I05-7001)]
+1. **Semantic orientation computing based on HowNet**. *Yanlan Zhu, Jin Min, Yaqian Zhou, Xuanjing Huang and Lide Wu*. JCIP 2005. [[pdf (Chinese)](http://jcip.cipsc.org.cn/UserFiles/File/678%E5%9F%BA%E4%BA%8EHowNet%E7%9A%84%E8%AF%8D%E6%B1%87%E8%AF%AD%E4%B9%89%E5%80%BE%E5%90%91%E8%AE%A1%E7%AE%97_%E6%9C%B1%E5%AB%A3%E5%B2%9A.pdf)]
 
 1. **Chinese word sense disambiguation using HowNet**. *Yuntao Zhang, Ling Gong and Yongcheng Wang*. ICNC 2005. [[pdf](https://link.springer.com/content/pdf/10.1007%2F11539087_123.pdf)]
 

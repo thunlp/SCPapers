@@ -48,7 +48,7 @@ As a result, sememes can help us comprehend human languages better. In fact, som
 
 
 ### Applications
-1. **Language Modeling with Sparse Product of Sememe Experts**. *Yihong Gu, Jun Yan, Hao Zhu, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Fen Lin and Leyu Lin*. EMNLP 2018.
+1. **Language Modeling with Sparse Product of Sememe Experts**. *Yihong Gu, Jun Yan, Hao Zhu, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Fen Lin and Leyu Lin*. EMNLP 2018. [[codes](https://github.com/thunlp/SDLM-pytorch)]
 
 1. **Chinese LIWC Lexicon Expansion via Hierarchical Classification of Word Embeddings with Sememe Attention**. *Xiangkai Zeng, Cheng Yang, Cunchao Tu, Zhiyuan Liu and Maosong Sun*. AAAI 2018. [[pdf](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2018_cliwc.pdf)] [[codes](https://github.com/thunlp/Auto_CLIWC)]
 

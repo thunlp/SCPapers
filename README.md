@@ -49,9 +49,9 @@ As a result, sememes can help us comprehend human languages better. In fact, som
 
 
 ### Applications
-1. **Modeling Semantic Compositionality with Sememe Knowledge**. *Fanchao Qi, Junjie Huang, Chenghao Yang, Zhiyuan Liu, Xiao Chen, Qun Liu and Maosong Sun*. ACL 2019. [[pdf](https://www.ijcai.org/proceedings/2019/0712.pdf)] [[codes](https://github.com/thunlp/Sememe-SC)]
+1. **Modeling Semantic Compositionality with Sememe Knowledge**. *Fanchao Qi, Junjie Huang, Chenghao Yang, Zhiyuan Liu, Xiao Chen, Qun Liu and Maosong Sun*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1571)] [[codes](https://github.com/thunlp/Sememe-SC)]
 
-1. **Unsupervised Neural Aspect Extraction with Sememes**. *Ling Luo, Xiang Ao, Yan Song, Jinyao Li, Xiaopeng Yang, Qing He and Dong Yu*. IJCAI 2019. [[pdf](https://www.aclweb.org/anthology/P19-1571)]
+1. **Unsupervised Neural Aspect Extraction with Sememes**. *Ling Luo, Xiang Ao, Yan Song, Jinyao Li, Xiaopeng Yang, Qing He and Dong Yu*. IJCAI 2019. [[pdf](https://www.ijcai.org/proceedings/2019/0712.pdf)]
 
 1. **Language Modeling with Sparse Product of Sememe Experts**. *Yihong Gu, Jun Yan, Hao Zhu, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Fen Lin and Leyu Lin*. EMNLP 2018. [[pdf](http://aclweb.org/anthology/D18-1493)] [[codes](https://github.com/thunlp/SDLM-pytorch)]
 

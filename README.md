@@ -53,6 +53,10 @@ As a result, sememes can help us comprehend human languages better. In fact, som
 
 1. **Unsupervised Neural Aspect Extraction with Sememes**. *Ling Luo, Xiang Ao, Yan Song, Jinyao Li, Xiaopeng Yang, Qing He and Dong Yu*. IJCAI 2019. [[pdf](https://www.ijcai.org/proceedings/2019/0712.pdf)]
 
+1. **Semantic Representation Learning Based on HowNet**. *Jingwen Zhu, Yuji Yang, Bin Xu and Juanzi Li*. JCIP 2019. [[pdf (Chinese)](http://jcip.cipsc.org.cn/CN/abstract/abstract2729.shtml#)]
+
+1. **A Word Representation Method Based on Hownet**. *Yang Chen and Zhiyong Luo*. Acta Scientiarum Naturalium Universitatis Pekinensis 2019. [[pdf (Chinese)](http://xbna.pku.edu.cn/CN/abstract/abstract3297.shtml#1)]
+
 1. **Language Modeling with Sparse Product of Sememe Experts**. *Yihong Gu, Jun Yan, Hao Zhu, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Fen Lin and Leyu Lin*. EMNLP 2018. [[pdf](http://aclweb.org/anthology/D18-1493)] [[codes](https://github.com/thunlp/SDLM-pytorch)]
 
 1. **Chinese LIWC Lexicon Expansion via Hierarchical Classification of Word Embeddings with Sememe Attention**. *Xiangkai Zeng, Cheng Yang, Cunchao Tu, Zhiyuan Liu and Maosong Sun*. AAAI 2018. [[pdf](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2018_cliwc.pdf)] [[codes](https://github.com/thunlp/Auto_CLIWC)]

@@ -70,7 +70,13 @@ Knowledge Base: A Case Study on HowNet**. *Maosong Sun and Xinxiong Chen*. JCIP 
 
 1. **Multi-aspect sentiment analysis for Chinese online social reviews based on topic modeling and HowNet lexicon**. *Xianghua Fu, Guo Li, Yanyan Guo and Zhiqiang Wang*. Knowledge-Based Systems 2013. [[pdf](https://ac.els-cdn.com/S0950705112002158/1-s2.0-S0950705112002158-main.pdf?_tid=5984aad5-e966-4a77-8206-23b466b21dae&acdnat=1539766746_e79fd6f8c0250bc3c105ee57b0b60a12)]
 
+1. **Employing Morphological Structuresand Sememes for Chinese Event Extraction**. *Peifeng Li and Guodong Zhou*. COLING 2012. [[pdf](https://www.aclweb.org/anthology/C12-1099)]
+
 1. **Method of discriminant for Chinese sentence sentiment orientation based on HowNet**. *Lei Dang and Lei Zhang*. Application Research of Computers 2010. [[pdf (Chinese)](http://www.arocmag.com/getarticle/?aid=0566ec39f836c6d3)]
+
+1. **Word Sense Disambiguation through Sememe Labeling**. *Xiangyu Duan, Jun Zhao and Bo Xu*. IJCAI 2007. [[pdf](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-257.pdf)]
+
+1. **Analogy Generation with HowNet**. *Tony Veale*. IJCAI 2005. [[pdf](https://www.ijcai.org/Proceedings/05/Papers/0620.pdf)]
 
 1. **Semantic orientation computing based on HowNet**. *Yanlan Zhu, Jin Min, Yaqian Zhou, Xuanjing Huang and Lide Wu*. JCIP 2005. [[pdf (Chinese)](http://jcip.cipsc.org.cn/UserFiles/File/678%E5%9F%BA%E4%BA%8EHowNet%E7%9A%84%E8%AF%8D%E6%B1%87%E8%AF%AD%E4%B9%89%E5%80%BE%E5%90%91%E8%AE%A1%E7%AE%97_%E6%9C%B1%E5%AB%A3%E5%B2%9A.pdf)]
 

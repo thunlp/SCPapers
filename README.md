@@ -25,7 +25,7 @@ As a result, sememes can help us comprehend human languages better. In fact, som
  
  > This paper gives an overall introduction to HowNet, including its features, philosophy and constructing method.
 
-4. **KDML — 知网知识系统描述语言**. *Zhendong Dong and Qiang Dong*. [[pdf (Chinese)](http://www.keenage.com/Theory%20and%20practice%20of%20HowNet/07.pdf)]
+4. **KDML — Knowledge Database Mark-up Language**. *Zhendong Dong and Qiang Dong*. [[pdf (Chinese)](http://www.keenage.com/Theory%20and%20practice%20of%20HowNet/07.pdf)]
  
  > This paper gives a detailed introduction to Knowledge Database Mark-up Language, the mark-up language used in HowNet.
 
@@ -36,7 +36,7 @@ As a result, sememes can help us comprehend human languages better. In fact, som
 
 1. **Sememe Prediction: Learning Semantic Knowledge from Unstructured Textual Wiki Descriptions**. *Wei Li, Xuancheng Ren, Damai Dai, Yunfang Wu, Houfeng Wang and Xu Sun*. arXiv 2018. [[pdf](https://arxiv.org/pdf/1808.05437)] [[code](https://github.com/lancopku/Sememe_prediction)]
 
-1. **Extended HowNet 2.0 – An Entity-Relation Common-Sense Representation Model**. *Wei-Yun Ma and Yueh-Yin Shih*. LREC 2018. [[pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/547.pdf)]
+1. **Extended HowNet 2.0: An Entity-Relation Common-Sense Representation Model**. *Wei-Yun Ma and Yueh-Yin Shih*. LREC 2018. [[pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/547.pdf)]
 
 1. **Incorporating Chinese Characters of Words for Lexical Sememe Prediction**. *Huiming Jin, Hao Zhu, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Fen Lin and Leyu Lin*. ACL 2018. [[pdf](https://arxiv.org/pdf/1806.06349)] [[code](https://github.com/thunlp/Character-enhanced-Sememe-Prediction)]
 
@@ -44,7 +44,7 @@ As a result, sememes can help us comprehend human languages better. In fact, som
 
 1. **E-HowNet and Automatic Construction of a Lexical Ontology**. *Wei-Te Chen, Su-Chu Lin, Shu-Ling Huang, You-Shan Chung and Keh-Jiann Chen*. COLING 2010. [[pdf](https://aclanthology.info/pdf/C/C10/C10-3012.pdf)]
 
-1. **Extended-HowNet- A Representational Framework for Concepts**. *Keh-Jiann Chen, Shu-Ling Huang, Yueh-Yin Shih and Yi-Jun Chen*. OntoLex 2005. [[pdf](http://www.aclweb.org/anthology/I05-7001)]
+1. **Extended-HowNet: A Representational Framework for Concepts**. *Keh-Jiann Chen, Shu-Ling Huang, Yueh-Yin Shih and Yi-Jun Chen*. OntoLex 2005. [[pdf](http://www.aclweb.org/anthology/I05-7001)]
 
 
 

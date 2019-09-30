@@ -1,12 +1,12 @@
-# Must-read papers on Sememe Computation
+# Must-read Papers on Sememe Computation
 
 Contributed by [Fanchao Qi](https://github.com/Fanchao-Qi).
 
 ## Introduction
 
-Sememes are defined as the minimum indivisible semantic units of meaning. Some people believe that semantic meanings of all the concepts including words can be composed of a limited closed set of sememes. 
+A sememe is defined as the minimum indivisible semantic unit in linguistics. Some linguists believe that meanings of all the concepts including words can be composed of a limited set of sememes. 
 
-As a result, sememes can help us comprehend human languages better. In fact, some works have proved that some neural NLP models perform better with incorporation of sememe knowledge.
+Sememes can help us comprehend human languages better. Some studies have proved that neural NLP models perform better with incorporation of sememe knowledge.
 
 [HowNet](http://www.keenage.com/), initially published in 2000, is the most famous sememe-based linguistic knowledge base.
 

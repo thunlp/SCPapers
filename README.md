@@ -32,15 +32,15 @@ As a result, sememes can help us comprehend human languages better. In fact, som
 
 ### Expansion of sememe-based knowledge bases
 1. **Cross-lingual Lexical Sememe Prediction**. *Fanchao Qi, Yankai Lin, Maosong Sun, Hao Zhu, Ruobing Xie and Zhiyuan Liu*. EMNLP 2018. [[pdf](http://aclweb.org/anthology/D18-1033)]
- [[codes](https://github.com/thunlp/CL-SP)]
+ [[code](https://github.com/thunlp/CL-SP)]
 
-1. **Sememe Prediction: Learning Semantic Knowledge from Unstructured Textual Wiki Descriptions**. *Wei Li, Xuancheng Ren, Damai Dai, Yunfang Wu, Houfeng Wang and Xu Sun*. arXiv 2018. [[pdf](https://arxiv.org/pdf/1808.05437)] [[codes](https://github.com/lancopku/Sememe_prediction)]
+1. **Sememe Prediction: Learning Semantic Knowledge from Unstructured Textual Wiki Descriptions**. *Wei Li, Xuancheng Ren, Damai Dai, Yunfang Wu, Houfeng Wang and Xu Sun*. arXiv 2018. [[pdf](https://arxiv.org/pdf/1808.05437)] [[code](https://github.com/lancopku/Sememe_prediction)]
 
 1. **Extended HowNet 2.0 – An Entity-Relation Common-Sense Representation Model**. *Wei-Yun Ma and Yueh-Yin Shih*. LREC 2018. [[pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/547.pdf)]
 
-1. **Incorporating Chinese Characters of Words for Lexical Sememe Prediction**. *Huiming Jin, Hao Zhu, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Fen Lin and Leyu Lin*. ACL 2018. [[pdf](https://arxiv.org/pdf/1806.06349)] [[codes](https://github.com/thunlp/Character-enhanced-Sememe-Prediction)]
+1. **Incorporating Chinese Characters of Words for Lexical Sememe Prediction**. *Huiming Jin, Hao Zhu, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Fen Lin and Leyu Lin*. ACL 2018. [[pdf](https://arxiv.org/pdf/1806.06349)] [[code](https://github.com/thunlp/Character-enhanced-Sememe-Prediction)]
 
-1. **Lexical Sememe Prediction via Word Embeddings and Matrix Factorization**. *Ruobing Xie, Xingchi Yuan, Zhiyuan Liu and Maosong Sun*. IJCAI 2017. [[pdf](https://www.ijcai.org/proceedings/2017/0587.pdf)] [[codes](https://github.com/thunlp/Sememe_prediction)]
+1. **Lexical Sememe Prediction via Word Embeddings and Matrix Factorization**. *Ruobing Xie, Xingchi Yuan, Zhiyuan Liu and Maosong Sun*. IJCAI 2017. [[pdf](https://www.ijcai.org/proceedings/2017/0587.pdf)] [[code](https://github.com/thunlp/Sememe_prediction)]
 
 1. **E-HowNet and Automatic Construction of a Lexical Ontology**. *Wei-Te Chen, Su-Chu Lin, Shu-Ling Huang, You-Shan Chung and Keh-Jiann Chen*. COLING 2010. [[pdf](https://aclanthology.info/pdf/C/C10/C10-3012.pdf)]
 
@@ -49,21 +49,23 @@ As a result, sememes can help us comprehend human languages better. In fact, som
 
 
 ### Applications
-1. **Modeling Semantic Compositionality with Sememe Knowledge**. *Fanchao Qi, Junjie Huang, Chenghao Yang, Zhiyuan Liu, Xiao Chen, Qun Liu and Maosong Sun*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1571)] [[codes](https://github.com/thunlp/Sememe-SC)]
+1. **Modeling Semantic Compositionality with Sememe Knowledge**. *Fanchao Qi, Junjie Huang, Chenghao Yang, Zhiyuan Liu, Xiao Chen, Qun Liu and Maosong Sun*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1571)] [[code](https://github.com/thunlp/Sememe-SC)]
 
 1. **Unsupervised Neural Aspect Extraction with Sememes**. *Ling Luo, Xiang Ao, Yan Song, Jinyao Li, Xiaopeng Yang, Qing He and Dong Yu*. IJCAI 2019. [[pdf](https://www.ijcai.org/proceedings/2019/0712.pdf)]
+
+1. **K-BERT: Enabling Language Representation with Knowledge Graph**. *Weijie Liu, Peng Zhou, Zhe Zhao, Zhiruo Wang, Qi Ju, Haotang Deng and Ping Wang*. arXiv 2019. [[pdf](https://arxiv.org/pdf/1909.07606)]
 
 1. **Semantic Representation Learning Based on HowNet**. *Jingwen Zhu, Yuji Yang, Bin Xu and Juanzi Li*. JCIP 2019. [[pdf (Chinese)](http://jcip.cipsc.org.cn/CN/abstract/abstract2729.shtml#)]
 
 1. **A Word Representation Method Based on Hownet**. *Yang Chen and Zhiyong Luo*. Acta Scientiarum Naturalium Universitatis Pekinensis 2019. [[pdf (Chinese)](http://xbna.pku.edu.cn/CN/abstract/abstract3297.shtml#1)]
 
-1. **Language Modeling with Sparse Product of Sememe Experts**. *Yihong Gu, Jun Yan, Hao Zhu, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Fen Lin and Leyu Lin*. EMNLP 2018. [[pdf](http://aclweb.org/anthology/D18-1493)] [[codes](https://github.com/thunlp/SDLM-pytorch)]
+1. **Language Modeling with Sparse Product of Sememe Experts**. *Yihong Gu, Jun Yan, Hao Zhu, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Fen Lin and Leyu Lin*. EMNLP 2018. [[pdf](http://aclweb.org/anthology/D18-1493)] [[code](https://github.com/thunlp/SDLM-pytorch)]
 
-1. **Chinese LIWC Lexicon Expansion via Hierarchical Classification of Word Embeddings with Sememe Attention**. *Xiangkai Zeng, Cheng Yang, Cunchao Tu, Zhiyuan Liu and Maosong Sun*. AAAI 2018. [[pdf](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2018_cliwc.pdf)] [[codes](https://github.com/thunlp/Auto_CLIWC)]
+1. **Chinese LIWC Lexicon Expansion via Hierarchical Classification of Word Embeddings with Sememe Attention**. *Xiangkai Zeng, Cheng Yang, Cunchao Tu, Zhiyuan Liu and Maosong Sun*. AAAI 2018. [[pdf](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2018_cliwc.pdf)] [[code](https://github.com/thunlp/Auto_CLIWC)]
 
 1. **Evaluating Semantic Rationality of a Sentence: A Sememe-Word-Matching Neural Network based on HowNet**. *Shu Liu, Jingjing Xu, Xuancheng Ren and Xu Sun*. arXiv 2018. [[pdf](https://arxiv.org/pdf/1809.03999)]
 
-1. **Improved Word Representation Learning with Sememes**. *Yilin Niu, Ruobing Xie, Zhiyuan Liu and Maosong Sun*. ACL 2017. [[pdf](http://www.aclweb.org/anthology/P17-1187)] [[codes](https://github.com/thunlp/SE-WRL)]
+1. **Improved Word Representation Learning with Sememes**. *Yilin Niu, Ruobing Xie, Zhiyuan Liu and Maosong Sun*. ACL 2017. [[pdf](http://www.aclweb.org/anthology/P17-1187)] [[code](https://github.com/thunlp/SE-WRL)]
 
 1. **Embedding for Words and Word Senses Based on Human Annotated
 Knowledge Base: A Case Study on HowNet**. *Maosong Sun and Xinxiong Chen*. JCIP 2016. [[pdf (Chinese)](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2293)]
@@ -84,9 +86,4 @@ Knowledge Base: A Case Study on HowNet**. *Maosong Sun and Xinxiong Chen*. JCIP 
 
 
 1. **Word Similarity Computing Based on HowNet**. *Qun Liu and Sujian Li*. International Journal of Computational Linguistics & Chinese Language Processing 2002. [[pdf (Chinese)](http://sewm.pku.edu.cn/QA/reference/hownet/WordSimilarity/%A1%B6%BB%F9%D3%DA%A3%BC%D6%AA%CD%F8%A3%BE%B5%C4%B4%CA%BB%E3%D3%EF%D2%E5%CF%E0%CB%C6%B6%C8%BC%C6%CB%E3%A1%B7%C2%DB%CE%C4.pdf)]
-
-
-
-
-
 

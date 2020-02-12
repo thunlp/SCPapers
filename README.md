@@ -63,7 +63,5 @@ Knowledge Base: A Case Study on HowNet**. *Maosong Sun and Xinxiong Chen*. JCIP 
 1. **Analogy Generation with HowNet**. *Tony Veale*. IJCAI 2005. [[pdf](https://www.ijcai.org/Proceedings/05/Papers/0620.pdf)]
 1. **Semantic orientation computing based on HowNet**. *Yanlan Zhu, Jin Min, Yaqian Zhou, Xuanjing Huang and Lide Wu*. JCIP 2005. [[pdf (Chinese)](http://jcip.cipsc.org.cn/UserFiles/File/678%E5%9F%BA%E4%BA%8EHowNet%E7%9A%84%E8%AF%8D%E6%B1%87%E8%AF%AD%E4%B9%89%E5%80%BE%E5%90%91%E8%AE%A1%E7%AE%97_%E6%9C%B1%E5%AB%A3%E5%B2%9A.pdf)]
 1. **Chinese word sense disambiguation using HowNet**. *Yuntao Zhang, Ling Gong and Yongcheng Wang*. ICNC 2005. [[pdf](https://link.springer.com/content/pdf/10.1007%2F11539087_123.pdf)]
-
-
 1. **Word Similarity Computing Based on HowNet**. *Qun Liu and Sujian Li*. International Journal of Computational Linguistics & Chinese Language Processing 2002. [[pdf (Chinese)](http://sewm.pku.edu.cn/QA/reference/hownet/WordSimilarity/%A1%B6%BB%F9%D3%DA%A3%BC%D6%AA%CD%F8%A3%BE%B5%C4%B4%CA%BB%E3%D3%EF%D2%E5%CF%E0%CB%C6%B6%C8%BC%C6%CB%E3%A1%B7%C2%DB%CE%C4.pdf)]
 

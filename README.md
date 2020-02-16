@@ -2,6 +2,8 @@
 
 # Must-read Papers on Sememe Computation
 
+![](https://img.shields.io/github/last-commit/thunlp/SCPapers?color=blue)![](https://img.shields.io/badge/PaperNumber-34-brightgreen)![](https://img.shields.io/badge/PRs-Welcome-red) 
+
 Contributed by [Fanchao Qi](https://github.com/Fanchao-Qi).
 
 ## Introduction

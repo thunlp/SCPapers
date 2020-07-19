@@ -2,7 +2,7 @@
 
 # Must-read Papers on Sememe Computation
 
-![](https://img.shields.io/github/last-commit/thunlp/SCPapers?color=blue)![](https://img.shields.io/badge/PaperNumber-34-brightgreen)![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/SCPapers?color=blue)![](https://img.shields.io/badge/PaperNumber-36-brightgreen)![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 Contributed by [Fanchao Qi](https://github.com/Fanchao-Qi).
 
@@ -29,6 +29,8 @@ Sememes can help us comprehend human languages better. Some studies have proved 
  > This paper gives a detailed introduction to Knowledge Database Mark-up Language, the mark-up language used in HowNet.
 
 ### Applications of Sememes
+1. **Word-level Textual Adversarial Attacking as Combinatorial Optimization**. *Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, Maosong Sun*. ACL 2020. [[pdf](https://arxiv.org/pdf/1910.12196.pdf)] [[code](https://github.com/thunlp/SememePSO-Attack)]
+1. **Enhancing Transformer with Sememe Knowledge**. *Yuhui Zhang, Chenghao Yang, Zhengping Zhou, Zhiyuan Liu*. Rep4NLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.repl4nlp-1.21.pdf)]
 1. **Multi-channel Reverse Dictionary Model**. *Lei Zhang, Fanchao Qi, Zhiyuan Liu, Yasheng, Wang, Qun Liu, Maosong Sun*. AAAI-20. [[pdf](https://arxiv.org/pdf/1912.08441.pdf)] [[code](https://github.com/thunlp/MultiRD)]
 1. **Modeling Semantic Compositionality with Sememe Knowledge**. *Fanchao Qi, Junjie Huang, Chenghao Yang, Zhiyuan Liu, Xiao Chen, Qun Liu and Maosong Sun*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1571)] [[code](https://github.com/thunlp/Sememe-SC)]
 1. **Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge**. *Ziran Li, Ning Ding, Zhiyuan Liu, Haitao Zheng and Ying Shen*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1430)] [[code](https://github.com/thunlp/Chinese_NRE)]

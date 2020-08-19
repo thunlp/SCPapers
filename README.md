@@ -30,6 +30,7 @@ Sememes can help us comprehend human languages better. Some studies have proved 
 
 ### Applications of Sememes
 1. **Word-level Textual Adversarial Attacking as Combinatorial Optimization**. *Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, Maosong Sun*. ACL 2020. [[pdf](https://arxiv.org/pdf/1910.12196.pdf)] [[code](https://github.com/thunlp/SememePSO-Attack)]
+1. **Improving Sequence Modeling Ability of Recurrent Neural Networks via Sememes**. *Yujia Qin, Fanchao Qi, Sicong Ouyang, Zhiyuan Liu, Cheng Yang, Yasheng Wang, Qun Liu, Maosong Sun*. ACL 2020. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9149672)] [[code](https://github.com/thunlp/SememeRNN)]
 1. **Enhancing Transformer with Sememe Knowledge**. *Yuhui Zhang, Chenghao Yang, Zhengping Zhou, Zhiyuan Liu*. Rep4NLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.repl4nlp-1.21.pdf)]
 1. **Multi-channel Reverse Dictionary Model**. *Lei Zhang, Fanchao Qi, Zhiyuan Liu, Yasheng, Wang, Qun Liu, Maosong Sun*. AAAI-20. [[pdf](https://arxiv.org/pdf/1912.08441.pdf)] [[code](https://github.com/thunlp/MultiRD)]
 1. **Modeling Semantic Compositionality with Sememe Knowledge**. *Fanchao Qi, Junjie Huang, Chenghao Yang, Zhiyuan Liu, Xiao Chen, Qun Liu and Maosong Sun*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1571)] [[code](https://github.com/thunlp/Sememe-SC)]

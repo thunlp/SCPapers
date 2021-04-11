@@ -2,7 +2,7 @@
 
 # Must-read Papers on Sememe Computation
 
-![](https://img.shields.io/github/last-commit/thunlp/SCPapers?color=blue)![](https://img.shields.io/badge/PaperNumber-36-brightgreen)![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/SCPapers?color=blue)![](https://img.shields.io/badge/PaperNumber-40-brightgreen)![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 Contributed by [Fanchao Qi](https://github.com/Fanchao-Qi).
 
@@ -29,14 +29,17 @@ Sememes can help us comprehend human languages better. Some studies have proved 
  > This paper gives a detailed introduction to Knowledge Database Mark-up Language, the mark-up language used in HowNet.
 
 ### Applications of Sememes
+1. **Conceptualized and Contextualized Gaussian Embedding**. *Chen Qian, Fuli Feng, Lijie Wen, Tat-Seng Chua*. AAAI-21. [[pdf](https://www.aaai.org/AAAI21Papers/AAAI-3949.QianC.pdf)]
 1. **Word-level Textual Adversarial Attacking as Combinatorial Optimization**. *Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, Maosong Sun*. ACL 2020. [[pdf](https://arxiv.org/pdf/1910.12196.pdf)] [[code](https://github.com/thunlp/SememePSO-Attack)]
+1. **Try to Substitute: An Unsupervised Chinese Word Sense Disambiguation Method Based on HowNet**. *Bairu Hou, Fanchao Qi, Yuan Zang, Xurui Zhang, Zhiyuan Liu, Maosong Sun*. COLING 2020. [[pdf](https://www.aclweb.org/anthology/2020.coling-main.155.pdf)] [[code](https://github.com/thunlp/SememeWSD)]
+1. **AliMe KG: Domain Knowledge Graph Construction andApplication in E-commerce**. *Feng-Lin Li, Hehong Chen, Guohai Xu, Tian Qiu, Feng Ji, Ji Zhang, Haiqing Chen*. CIKM 2020. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3340531.3412685)]
 1. **Improving Sequence Modeling Ability of Recurrent Neural Networks via Sememes**. *Yujia Qin, Fanchao Qi, Sicong Ouyang, Zhiyuan Liu, Cheng Yang, Yasheng Wang, Qun Liu, Maosong Sun*. TASLP 2020. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9149672)] [[code](https://github.com/thunlp/SememeRNN)]
 1. **Enhancing Transformer with Sememe Knowledge**. *Yuhui Zhang, Chenghao Yang, Zhengping Zhou, Zhiyuan Liu*. Rep4NLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.repl4nlp-1.21.pdf)]
 1. **Multi-channel Reverse Dictionary Model**. *Lei Zhang, Fanchao Qi, Zhiyuan Liu, Yasheng, Wang, Qun Liu, Maosong Sun*. AAAI-20. [[pdf](https://arxiv.org/pdf/1912.08441.pdf)] [[code](https://github.com/thunlp/MultiRD)]
+1. **K-BERT: Enabling Language Representation with Knowledge Graph**. *Weijie Liu, Peng Zhou, Zhe Zhao, Zhiruo Wang, Qi Ju, Haotang Deng and Ping Wang*. AAAI-20. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/5681/5537)] [[code](https://github.com/autoliuweijie/K-BERT)]
 1. **Modeling Semantic Compositionality with Sememe Knowledge**. *Fanchao Qi, Junjie Huang, Chenghao Yang, Zhiyuan Liu, Xiao Chen, Qun Liu and Maosong Sun*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1571)] [[code](https://github.com/thunlp/Sememe-SC)]
 1. **Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge**. *Ziran Li, Ning Ding, Zhiyuan Liu, Haitao Zheng and Ying Shen*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1430)] [[code](https://github.com/thunlp/Chinese_NRE)]
 1. **Unsupervised Neural Aspect Extraction with Sememes**. *Ling Luo, Xiang Ao, Yan Song, Jinyao Li, Xiaopeng Yang, Qing He and Dong Yu*. IJCAI 2019. [[pdf](https://www.ijcai.org/proceedings/2019/0712.pdf)]
-1. **K-BERT: Enabling Language Representation with Knowledge Graph**. *Weijie Liu, Peng Zhou, Zhe Zhao, Zhiruo Wang, Qi Ju, Haotang Deng and Ping Wang*. arXiv 2019. [[pdf](https://arxiv.org/pdf/1909.07606)] [[code](https://github.com/autoliuweijie/K-BERT)]
 1. **Semantic Representation Learning Based on HowNet**. *Jingwen Zhu, Yuji Yang, Bin Xu and Juanzi Li*. JCIP 2019. [[pdf (Chinese)](http://jcip.cipsc.org.cn/CN/abstract/abstract2729.shtml#)]
 1. **A Word Representation Method Based on HowNet**. *Yang Chen and Zhiyong Luo*. Acta Scientiarum Naturalium Universitatis Pekinensis 2019. [[pdf (Chinese)](http://xbna.pku.edu.cn/CN/abstract/abstract3297.shtml#1)]
 1. **Evaluating Semantic Rationality of a Sentence: A Sememe-Word-Matching Neural Network based on HowNet**. *Shu Liu, Jingjing Xu and Xuancheng Ren*. NLPCC 2019. [[pdf](http://tcci.ccf.org.cn/conference/2019/papers/250.pdf)]
@@ -44,7 +47,7 @@ Sememes can help us comprehend human languages better. Some studies have proved 
 1. **Chinese LIWC Lexicon Expansion via Hierarchical Classification of Word Embeddings with Sememe Attention**. *Xiangkai Zeng, Cheng Yang, Cunchao Tu, Zhiyuan Liu and Maosong Sun*. AAAI-18. [[pdf](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2018_cliwc.pdf)] [[code](https://github.com/thunlp/Auto_CLIWC)]
 1. **Improved Word Representation Learning with Sememes**. *Yilin Niu, Ruobing Xie, Zhiyuan Liu and Maosong Sun*. ACL 2017. [[pdf](http://www.aclweb.org/anthology/P17-1187)] [[code](https://github.com/thunlp/SE-WRL)]
 1. **Embedding for Words and Word Senses Based on Human Annotated
-Knowledge Base: A Case Study on HowNet**. *Maosong Sun and Xinxiong Chen*. JCIP 2016. [[pdf (Chinese)](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2293)]
+   Knowledge Base: A Case Study on HowNet**. *Maosong Sun and Xinxiong Chen*. JCIP 2016. [[pdf (Chinese)](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2293)]
 1. **Multi-aspect sentiment analysis for Chinese online social reviews based on topic modeling and HowNet lexicon**. *Xianghua Fu, Guo Li, Yanyan Guo and Zhiqiang Wang*. Knowledge-Based Systems 2013. [[pdf](https://www.sciencedirect.com/science/article/pii/S0950705112002158)]
 1. **Employing Morphological Structures and Sememes for Chinese Event Extraction**. *Peifeng Li and Guodong Zhou*. COLING 2012. [[pdf](https://www.aclweb.org/anthology/C12-1099)]
 1. **Method of discriminant for Chinese sentence sentiment orientation based on HowNet**. *Lei Dang and Lei Zhang*. Application Research of Computers 2010. [[pdf (Chinese)](http://www.arocmag.com/getarticle/?aid=0566ec39f836c6d3)]

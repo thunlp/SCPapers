@@ -2,7 +2,7 @@
 
 # Must-read Papers on Sememe Computation
 
-![](https://img.shields.io/github/last-commit/thunlp/SCPapers?color=blue)![](https://img.shields.io/badge/PaperNumber-40-brightgreen)![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/SCPapers?color=blue)![](https://img.shields.io/badge/PaperNumber-42-brightgreen)![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 Contributed by [Fanchao Qi](https://github.com/Fanchao-Qi).
 
@@ -29,6 +29,7 @@ Sememes can help us comprehend human languages better. Some studies have proved 
  > This paper gives a detailed introduction to Knowledge Database Mark-up Language, the mark-up language used in HowNet.
 
 ### Applications of Sememes
+1. **Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution**. *Fanchao Qi, Yuan Yao, Sophia Xu, Zhiyuan Liu, Maosong Sun*. ACL-IJCNLP 2021. [[code](https://github.com/thunlp/BkdAtk-LWS)]
 1. **Conceptualized and Contextualized Gaussian Embedding**. *Chen Qian, Fuli Feng, Lijie Wen, Tat-Seng Chua*. AAAI-21. [[pdf](https://www.aaai.org/AAAI21Papers/AAAI-3949.QianC.pdf)]
 1. **Word-level Textual Adversarial Attacking as Combinatorial Optimization**. *Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, Maosong Sun*. ACL 2020. [[pdf](https://arxiv.org/pdf/1910.12196.pdf)] [[code](https://github.com/thunlp/SememePSO-Attack)]
 1. **Try to Substitute: An Unsupervised Chinese Word Sense Disambiguation Method Based on HowNet**. *Bairu Hou, Fanchao Qi, Yuan Zang, Xurui Zhang, Zhiyuan Liu, Maosong Sun*. COLING 2020. [[pdf](https://www.aclweb.org/anthology/2020.coling-main.155.pdf)] [[code](https://github.com/thunlp/SememeWSD)]
@@ -60,6 +61,7 @@ Sememes can help us comprehend human languages better. Some studies have proved 
 
 ### Expansion of Sememe Knowledge Bases
 
+1. **Automatic Construction of Sememe Knowledge Bases via Dictionaries**. *Fanchao Qi, Yanyi Chen, Fengyu Wang, Zhiyuan Liu, Maosong Sun*. Findings of ACL: ACL-IJCNLP 2021. [[pdf](https://arxiv.org/pdf/2105.12400)] [[code](https://github.com/thunlp/DictSKB)]
 1. **Towards Building a Multilingual Sememe Knowledge Base: Predicting Sememes for BabelNet Synsets**. *Fanchao Qi, Liang Chang, Maosong Sun, Sicong Ouyang and Zhiyuan Liu*. AAAI-20. [[pdf](https://arxiv.org/pdf/1912.01795.pdf)] [[code](https://github.com/thunlp/BabelNet-Sememe-Prediction)]
 1. **Lexical Sememe Prediction using Dictionary Definitions by Capturing Local Semantic Correspondence**. *Jiaju Du, Fanchao Qi, Maosong Sun and Zhiyuan Liu*. arXiv 2020. [[pdf](https://arxiv.org/pdf/2001.05954)]
 1. **OpenHowNet: An Open Sememe-based Lexical Knowledge Base**. Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Qiang Dong, Maosong Sun, Zhendong Dong. arXiv 2019. [[pdf](https://arxiv.org/pdf/1901.09957.pdf)] [[code](https://github.com/thunlp/OpenHowNet)]

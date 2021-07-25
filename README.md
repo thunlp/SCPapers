@@ -2,7 +2,7 @@
 
 # Must-read Papers on Sememe Computation
 
-![](https://img.shields.io/github/last-commit/thunlp/SCPapers?color=blue)![](https://img.shields.io/badge/PaperNumber-42-brightgreen)![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/SCPapers?color=blue)![](https://img.shields.io/badge/PaperNumber-49-brightgreen)![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 Contributed by [Fanchao Qi](https://github.com/Fanchao-Qi).
 
@@ -30,17 +30,24 @@ Sememes can help us comprehend human languages better. Some studies have proved 
 
 ### Applications of Sememes
 1. **Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution**. *Fanchao Qi, Yuan Yao, Sophia Xu, Zhiyuan Liu, Maosong Sun*. ACL-IJCNLP 2021. [[code](https://github.com/thunlp/BkdAtk-LWS)]
-1. **Conceptualized and Contextualized Gaussian Embedding**. *Chen Qian, Fuli Feng, Lijie Wen, Tat-Seng Chua*. AAAI-21. [[pdf](https://www.aaai.org/AAAI21Papers/AAAI-3949.QianC.pdf)]
+1. **LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching**. *Boer Lyu, Lu Chen, Su Zhu, Kai Yu*. AAAI-21. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/17592/17399)] [[code](https://github.com/lbe0613/LET)]
+1. **Conceptualized and Contextualized Gaussian Embedding**. *Chen Qian, Fuli Feng, Lijie Wen, Tat-Seng Chua*. AAAI-21. [[pdf](https://www.aaai.org/AAAI21Papers/AAAI-3949.QianC.pdf)] 
+1. **Chinese Lexical Simplification**. *Jipeng Qiang, Xinyu Lu, Yun Li, Yunhao Yuan, Xindong Wu*. TASLP 2021. [[pdf](https://ieeexplore.ieee.org/document/9439908)] [[code](https://github.com/luxinyu1/Chinese-LS)]
 1. **Word-level Textual Adversarial Attacking as Combinatorial Optimization**. *Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, Maosong Sun*. ACL 2020. [[pdf](https://arxiv.org/pdf/1910.12196.pdf)] [[code](https://github.com/thunlp/SememePSO-Attack)]
 1. **Try to Substitute: An Unsupervised Chinese Word Sense Disambiguation Method Based on HowNet**. *Bairu Hou, Fanchao Qi, Yuan Zang, Xurui Zhang, Zhiyuan Liu, Maosong Sun*. COLING 2020. [[pdf](https://www.aclweb.org/anthology/2020.coling-main.155.pdf)] [[code](https://github.com/thunlp/SememeWSD)]
+1. **End to End Chinese Lexical Fusion Recognition with Sememe Knowledge**. *Yijiang Liu, Meishan Zhang, Donghong Ji*. COLING 2020. [[pdf](https://aclanthology.org/2020.coling-main.263.pdf)] [[code](https://github.com/liuyijiang1994/chinese_lexical_fusion)]
 1. **AliMe KG: Domain Knowledge Graph Construction andApplication in E-commerce**. *Feng-Lin Li, Hehong Chen, Guohai Xu, Tian Qiu, Feng Ji, Ji Zhang, Haiqing Chen*. CIKM 2020. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3340531.3412685)]
 1. **Improving Sequence Modeling Ability of Recurrent Neural Networks via Sememes**. *Yujia Qin, Fanchao Qi, Sicong Ouyang, Zhiyuan Liu, Cheng Yang, Yasheng Wang, Qun Liu, Maosong Sun*. TASLP 2020. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9149672)] [[code](https://github.com/thunlp/SememeRNN)]
+1. **Incorporating Sememes into Chinese Definition Modeling**. *Liner Yang, Cunliang Kong, Yun Chen, Yang Liu, Qinan Fan, Erhong Yang*. TASLP 2020. [[pdf](https://ieeexplore.ieee.org/document/9072279/)] [[code](https://github.com/blcuicall/AutoDict)]
 1. **Enhancing Transformer with Sememe Knowledge**. *Yuhui Zhang, Chenghao Yang, Zhengping Zhou, Zhiyuan Liu*. Rep4NLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.repl4nlp-1.21.pdf)]
 1. **Multi-channel Reverse Dictionary Model**. *Lei Zhang, Fanchao Qi, Zhiyuan Liu, Yasheng, Wang, Qun Liu, Maosong Sun*. AAAI-20. [[pdf](https://arxiv.org/pdf/1912.08441.pdf)] [[code](https://github.com/thunlp/MultiRD)]
 1. **K-BERT: Enabling Language Representation with Knowledge Graph**. *Weijie Liu, Peng Zhou, Zhe Zhao, Zhiruo Wang, Qi Ju, Haotang Deng and Ping Wang*. AAAI-20. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/5681/5537)] [[code](https://github.com/autoliuweijie/K-BERT)]
+1. **Leveraging Human Prior Knowledge to Learn Sense Representations**. *Tong Zhang, Wei Ye, Xiangyu Xi, Longyin Zhang, Shikun Zhang, Wen Zhao*. ECAI 2020. [[pdf](http://ecai2020.eu/papers/603_paper.pdf)]
+1. **Lexical and Compositional Stream Learning for Event Detection with Sememe Knowledge**. *Jiale Yuan, Xin Xin, Ping Guo*. ICIST 2020. [[pdf](https://ieeexplore.ieee.org/abstract/document/9202312)]
 1. **Modeling Semantic Compositionality with Sememe Knowledge**. *Fanchao Qi, Junjie Huang, Chenghao Yang, Zhiyuan Liu, Xiao Chen, Qun Liu and Maosong Sun*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1571)] [[code](https://github.com/thunlp/Sememe-SC)]
 1. **Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge**. *Ziran Li, Ning Ding, Zhiyuan Liu, Haitao Zheng and Ying Shen*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1430)] [[code](https://github.com/thunlp/Chinese_NRE)]
 1. **Unsupervised Neural Aspect Extraction with Sememes**. *Ling Luo, Xiang Ao, Yan Song, Jinyao Li, Xiaopeng Yang, Qing He and Dong Yu*. IJCAI 2019. [[pdf](https://www.ijcai.org/proceedings/2019/0712.pdf)]
+1. **Semantic Hilbert Space for Text Representation Learning**. *Benyou Wang, Qiuchi Li, Massimo Melucci, Dawei Song*. WWW 2019. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3308558.3313516)] [[code](https://github.com/wabyking/qnn)]
 1. **Semantic Representation Learning Based on HowNet**. *Jingwen Zhu, Yuji Yang, Bin Xu and Juanzi Li*. JCIP 2019. [[pdf (Chinese)](http://jcip.cipsc.org.cn/CN/abstract/abstract2729.shtml#)]
 1. **A Word Representation Method Based on HowNet**. *Yang Chen and Zhiyong Luo*. Acta Scientiarum Naturalium Universitatis Pekinensis 2019. [[pdf (Chinese)](http://xbna.pku.edu.cn/CN/abstract/abstract3297.shtml#1)]
 1. **Evaluating Semantic Rationality of a Sentence: A Sememe-Word-Matching Neural Network based on HowNet**. *Shu Liu, Jingjing Xu and Xuancheng Ren*. NLPCC 2019. [[pdf](http://tcci.ccf.org.cn/conference/2019/papers/250.pdf)]

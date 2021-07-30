@@ -2,7 +2,7 @@
 
 # Must-read Papers on Sememe Computation
 
-![](https://img.shields.io/github/last-commit/thunlp/SCPapers?color=blue)![](https://img.shields.io/badge/PaperNumber-49-brightgreen)![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/SCPapers?color=blue)![](https://img.shields.io/badge/PaperNumber-52-brightgreen)![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 Contributed by [Fanchao Qi](https://github.com/Fanchao-Qi).
 
@@ -70,9 +70,12 @@ Sememes can help us comprehend human languages better. Some studies have proved 
 
 1. **Automatic Construction of Sememe Knowledge Bases via Dictionaries**. *Fanchao Qi, Yanyi Chen, Fengyu Wang, Zhiyuan Liu, Maosong Sun*. Findings of ACL: ACL-IJCNLP 2021. [[pdf](https://arxiv.org/pdf/2105.12400)] [[code](https://github.com/thunlp/DictSKB)]
 1. **Towards Building a Multilingual Sememe Knowledge Base: Predicting Sememes for BabelNet Synsets**. *Fanchao Qi, Liang Chang, Maosong Sun, Sicong Ouyang and Zhiyuan Liu*. AAAI-20. [[pdf](https://arxiv.org/pdf/1912.01795.pdf)] [[code](https://github.com/thunlp/BabelNet-Sememe-Prediction)]
+1. **Sememe Tree Prediction for English-Chinese Word Pairs**. *Baoju Liu, Xuejun Shang, Liqing Liu, Yuanpeng Tan, Lei Hou, Juanzi Li*. CCKS 2020. [[pdf](https://link.springer.com/content/pdf/10.1007%2F978-981-16-1964-9_2.pdf)]
+1. **Incorporating synonym for lexical sememe prediction: An attention-based model**. *Xiaojun Kang, Bing Li, Hong Yao, Qingzhong Liang, Shengwen Li, Junfang Gong, Xinchuan Li*. Applied Sciences 2020. [[pdf](https://www.mdpi.com/2076-3417/10/17/5996/pdf)]
 1. **Lexical Sememe Prediction using Dictionary Definitions by Capturing Local Semantic Correspondence**. *Jiaju Du, Fanchao Qi, Maosong Sun and Zhiyuan Liu*. arXiv 2020. [[pdf](https://arxiv.org/pdf/2001.05954)]
 1. **OpenHowNet: An Open Sememe-based Lexical Knowledge Base**. Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Qiang Dong, Maosong Sun, Zhendong Dong. arXiv 2019. [[pdf](https://arxiv.org/pdf/1901.09957.pdf)] [[code](https://github.com/thunlp/OpenHowNet)]
 1. **Cross-lingual Lexical Sememe Prediction**. *Fanchao Qi, Yankai Lin, Maosong Sun, Hao Zhu, Ruobing Xie and Zhiyuan Liu*. EMNLP 2018. [[pdf](http://aclweb.org/anthology/D18-1033)] [[code](https://github.com/thunlp/CL-SP)]
+1. **Lexical Sememe Prediction with RNN and Modern Chinese Dictionary**. *Mei Bai, Pin lv, Xu Long*. ICNC-FSKD 2018. [[pdf](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8687260&ref=)]
 1. **Sememe Prediction: Learning Semantic Knowledge from Unstructured Textual Wiki Descriptions**. *Wei Li, Xuancheng Ren, Damai Dai, Yunfang Wu, Houfeng Wang and Xu Sun*. arXiv 2018. [[pdf](https://arxiv.org/pdf/1808.05437)] [[code](https://github.com/lancopku/Sememe_prediction)]
 1. **Extended HowNet 2.0: An Entity-Relation Common-Sense Representation Model**. *Wei-Yun Ma and Yueh-Yin Shih*. LREC 2018. [[pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/547.pdf)]
 1. **Incorporating Chinese Characters of Words for Lexical Sememe Prediction**. *Huiming Jin, Hao Zhu, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Fen Lin and Leyu Lin*. ACL 2018. [[pdf](https://www.aclweb.org/anthology/P18-1227.pdf)] [[code](https://github.com/thunlp/Character-enhanced-Sememe-Prediction)]

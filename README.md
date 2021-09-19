@@ -2,7 +2,7 @@
 
 # Must-read Papers on Sememe Computation
 
-![](https://img.shields.io/github/last-commit/thunlp/SCPapers?color=blue)![](https://img.shields.io/badge/PaperNumber-52-brightgreen)![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/SCPapers?color=blue)![](https://img.shields.io/badge/PaperNumber-53-brightgreen)![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 Contributed by [Fanchao Qi](https://github.com/Fanchao-Qi).
 
@@ -12,24 +12,27 @@ A **sememe** is defined as the minimum semantic unit in linguistics. Some lingui
 
 Sememes can help us comprehend human languages better. Some studies have proved that neural NLP models benefit from the incorporation of sememes.
 
-[HowNet](http://www.keenage.com/) is the most famous sememe-based  knowledge base. It predefines a set of 2,000 sememes and uses them to annotate over 100,000 Chinese and English words.
+HowNet is the most famous sememe-based  knowledge base. It predefines a set of 2,000 sememes and uses them to annotate over 100,000 Chinese and English words.
 
 [OpenHowNet](https://github.com/thunlp/OpenHowNet), developed by [THUNLP](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en), opens source core data of HowNet and provides convenient data access APIs.
 
 
 ## Papers
 ### Introduction
-1. **Introduction to HowNet**. *Zhendong Dong and Qiang Dong*. [[pdf (English)](http://www.keenage.com/Theory%20and%20practice%20of%20HowNet/04.pdf)] [[pdf (Chinese)](http://www.keenage.com/Theory%20and%20practice%20of%20HowNet/03.pdf)]
+1. **Introduction to HowNet**. *Zhendong Dong and Qiang Dong*. [[pdf (Chinese)](./resources/2003_知网.pdf)]
  > This paper gives an overall introduction to HowNet, including its features, philosophy and constructing method.
 
 2. **HowNet - a hybrid language and knowledge resource**. *Zhendong Dong and Qiang Dong*. NLP-KE 2003. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1276017)]
  > This paper gives a brief introduction to HowNet.
 
-3. **KDML — Knowledge Database Mark-up Language**. *Zhendong Dong and Qiang Dong*. [[pdf (Chinese)](http://www.keenage.com/Theory%20and%20practice%20of%20HowNet/07.pdf)]
+3. **KDML — Knowledge Database Mark-up Language**. *Zhendong Dong and Qiang Dong*. [[pdf (Chinese)](./resources/2003_KDML — 知网知识系统描述语言.pdf)]
  > This paper gives a detailed introduction to Knowledge Database Mark-up Language, the mark-up language used in HowNet.
 
+4. **Sememe knowledge computation: a review of recent advances in application and expansion of sememe knowledge bases**. *Fanchao Qi, Ruobing Xie, Yuan Zang, Zhiyuan Liu, Maosong Sun*. Frontiers of Computer Science 2021. [[pdf](https://academic.hep.com.cn/fcs/CN/article/downloadArticleFile.do?attachType=PDF&id=27793&1632051791615)]
+ > This paper summarizes the recent advances in application and expansion of sememe knowledge bases.
+
 ### Applications of Sememes
-1. **Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution**. *Fanchao Qi, Yuan Yao, Sophia Xu, Zhiyuan Liu, Maosong Sun*. ACL-IJCNLP 2021. [[code](https://github.com/thunlp/BkdAtk-LWS)]
+1. **Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution**. *Fanchao Qi, Yuan Yao, Sophia Xu, Zhiyuan Liu, Maosong Sun*. ACL-IJCNLP 2021. [[pdf](https://aclanthology.org/2021.acl-long.377.pdf)] [[code](https://github.com/thunlp/BkdAtk-LWS)]
 1. **LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching**. *Boer Lyu, Lu Chen, Su Zhu, Kai Yu*. AAAI-21. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/17592/17399)] [[code](https://github.com/lbe0613/LET)]
 1. **Conceptualized and Contextualized Gaussian Embedding**. *Chen Qian, Fuli Feng, Lijie Wen, Tat-Seng Chua*. AAAI-21. [[pdf](https://www.aaai.org/AAAI21Papers/AAAI-3949.QianC.pdf)] 
 1. **Chinese Lexical Simplification**. *Jipeng Qiang, Xinyu Lu, Yun Li, Yunhao Yuan, Xindong Wu*. TASLP 2021. [[pdf](https://ieeexplore.ieee.org/document/9439908)] [[code](https://github.com/luxinyu1/Chinese-LS)]

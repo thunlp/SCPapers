@@ -25,7 +25,7 @@ HowNet is the most famous sememe-based  knowledge base. It predefines a set of 2
 2. **HowNet - a hybrid language and knowledge resource**. *Zhendong Dong and Qiang Dong*. NLP-KE 2003. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1276017)]
  > This paper gives a brief introduction to HowNet.
 
-3. **KDML — Knowledge Database Mark-up Language**. *Zhendong Dong and Qiang Dong*. [[pdf (Chinese)](./resources/2003_KDML — 知网知识系统描述语言.pdf)]
+3. **KDML — Knowledge Database Mark-up Language**. *Zhendong Dong and Qiang Dong*. [[pdf (Chinese)](./resources/2003_KDML-知网知识系统描述语言.pdf)]
  > This paper gives a detailed introduction to Knowledge Database Mark-up Language, the mark-up language used in HowNet.
 
 4. **Sememe knowledge computation: a review of recent advances in application and expansion of sememe knowledge bases**. *Fanchao Qi, Ruobing Xie, Yuan Zang, Zhiyuan Liu, Maosong Sun*. Frontiers of Computer Science 2021. [[pdf](https://academic.hep.com.cn/fcs/CN/article/downloadArticleFile.do?attachType=PDF&id=27793&1632051791615)]

@@ -2,7 +2,7 @@
 
 # Must-read Papers on Sememe Computation
 
-![](https://img.shields.io/github/last-commit/thunlp/SCPapers?color=blue)![](https://img.shields.io/badge/PaperNumber-53-brightgreen)![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/SCPapers?color=blue)![](https://img.shields.io/badge/PaperNumber-54-brightgreen)![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 Contributed by [Fanchao Qi](https://github.com/Fanchao-Qi).
 
@@ -71,6 +71,7 @@ HowNet is the most famous sememe-based  knowledge base. It predefines a set of 2
 
 ### Expansion of Sememe Knowledge Bases
 
+1. **Glyph Enhanced Chinese Character Pre-Training for Lexical Sememe Prediction**. *Boer Lyu, Lu Chen, Kai Yu*. Findings of ACL: EMNLP 2021. [[pdf](https://aclanthology.org/2021.findings-emnlp.386.pdf)] [[code](https://github.com/lbe0613/gcc)]
 1. **Automatic Construction of Sememe Knowledge Bases via Dictionaries**. *Fanchao Qi, Yanyi Chen, Fengyu Wang, Zhiyuan Liu, Maosong Sun*. Findings of ACL: ACL-IJCNLP 2021. [[pdf](https://arxiv.org/pdf/2105.12400)] [[code](https://github.com/thunlp/DictSKB)]
 1. **Towards Building a Multilingual Sememe Knowledge Base: Predicting Sememes for BabelNet Synsets**. *Fanchao Qi, Liang Chang, Maosong Sun, Sicong Ouyang and Zhiyuan Liu*. AAAI-20. [[pdf](https://arxiv.org/pdf/1912.01795.pdf)] [[code](https://github.com/thunlp/BabelNet-Sememe-Prediction)]
 1. **Sememe Tree Prediction for English-Chinese Word Pairs**. *Baoju Liu, Xuejun Shang, Liqing Liu, Yuanpeng Tan, Lei Hou, Juanzi Li*. CCKS 2020. [[pdf](https://link.springer.com/content/pdf/10.1007%2F978-981-16-1964-9_2.pdf)]

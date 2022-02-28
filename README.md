@@ -32,6 +32,7 @@ HowNet is the most famous sememe-based  knowledge base. It predefines a set of 2
  > This paper summarizes the recent advances in application and expansion of sememe knowledge bases.
 
 ### Applications of Sememes
+1. **Sememe Knowledge and Auxiliary Information Enhanced Approach for Sarcasm Detection**. *Zhiyuan Wen, Lin Gui, Qianlong Wang, Mingyue Guo, Xiaoqi Yu, Jiachen Du, Ruifeng Xu*. Information Processing & Management 2022. [[pdf](https://www.sciencedirect.com/science/article/pii/S0306457322000139)]
 1. **Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution**. *Fanchao Qi, Yuan Yao, Sophia Xu, Zhiyuan Liu, Maosong Sun*. ACL-IJCNLP 2021. [[pdf](https://aclanthology.org/2021.acl-long.377.pdf)] [[code](https://github.com/thunlp/BkdAtk-LWS)]
 1. **LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching**. *Boer Lyu, Lu Chen, Su Zhu, Kai Yu*. AAAI-21. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/17592/17399)] [[code](https://github.com/lbe0613/LET)]
 1. **Conceptualized and Contextualized Gaussian Embedding**. *Chen Qian, Fuli Feng, Lijie Wen, Tat-Seng Chua*. AAAI-21. [[pdf](https://www.aaai.org/AAAI21Papers/AAAI-3949.QianC.pdf)] 

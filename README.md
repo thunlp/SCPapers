@@ -72,6 +72,7 @@ HowNet is the most famous sememe-based  knowledge base. It predefines a set of 2
 
 ### Expansion of Sememe Knowledge Bases
 
+1. **Bridging the Gap Between BabelNet and HowNet: Unsupervised Sense Alignment and Sememe Prediction**. *Xiang Zhang, Ning Shi, Bradley Hauer, Grzegorz Kondrak*. EACL 2023. [[pdf](https://aclanthology.org/2023.eacl-main.205.pdf)] [[code](https://github.com/senseAlign/BabelNet_2_HowNet)]
 1. **Glyph Enhanced Chinese Character Pre-Training for Lexical Sememe Prediction**. *Boer Lyu, Lu Chen, Kai Yu*. Findings of ACL: EMNLP 2021. [[pdf](https://aclanthology.org/2021.findings-emnlp.386.pdf)] [[code](https://github.com/lbe0613/gcc)]
 1. **Automatic Construction of Sememe Knowledge Bases via Dictionaries**. *Fanchao Qi, Yanyi Chen, Fengyu Wang, Zhiyuan Liu, Maosong Sun*. Findings of ACL: ACL-IJCNLP 2021. [[pdf](https://arxiv.org/pdf/2105.12400)] [[code](https://github.com/thunlp/DictSKB)]
 1. **Towards Building a Multilingual Sememe Knowledge Base: Predicting Sememes for BabelNet Synsets**. *Fanchao Qi, Liang Chang, Maosong Sun, Sicong Ouyang and Zhiyuan Liu*. AAAI-20. [[pdf](https://arxiv.org/pdf/1912.01795.pdf)] [[code](https://github.com/thunlp/BabelNet-Sememe-Prediction)]
